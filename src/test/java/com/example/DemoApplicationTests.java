@@ -13,8 +13,4 @@ public class DemoApplicationTests {
 	public void contextLoads() {
 	}
 
-	@Test
-	public void contextLoads2() {
-	}
-
 }
